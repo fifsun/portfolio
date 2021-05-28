@@ -59,6 +59,16 @@ li {
   letter-spacing: .05em;
   color: #333;
 }
+.where {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  letter-spacing: .05em;
+  color: #333;
+}
 
 .lead {
   margin-bottom: 30px;
@@ -240,6 +250,10 @@ li {
   }
 
   .title {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .where {
     font-size: 26px;
     margin-bottom: 20px;
   }
